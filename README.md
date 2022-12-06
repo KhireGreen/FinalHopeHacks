@@ -1,4 +1,3 @@
-# FinalHopeHacks
 NoGuiltRecipes
 You won't have to worry about guilt when trying to lose or gain weight when you use NoGuiltRecipes. With our services, users will be able to find the best recipes available based on their unique food preferences. There are over 2 million recipes with some of the top sources related to the recipes.
 
